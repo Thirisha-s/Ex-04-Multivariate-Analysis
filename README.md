@@ -83,6 +83,7 @@ sns.heatmap(df.corr(),annot=True)
 ![image](https://user-images.githubusercontent.com/120380280/230703477-e8317b3e-b5c1-4bfa-b62f-c6cb3857c975.png)
 # Checking the null values and Cleaning it
 ![image](https://user-images.githubusercontent.com/120380280/230703498-f3fa684b-c874-4c14-a15f-49d89f57dcc3.png)
+
 ![image](https://user-images.githubusercontent.com/120380280/230703500-d04eec4f-28fd-47d8-88dd-97040b43cf83.png)
 # DATA TYPES
 ![image](https://user-images.githubusercontent.com/120380280/230703513-d9e9287f-8969-4c17-aa45-168ab4ca4bbb.png)
